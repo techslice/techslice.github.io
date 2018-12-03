@@ -1,25 +1,137 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techslice.github.io" resolutions="1x" timestamp="1542860476192">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="strayapostie.github.io" resolutions="1x" timestamp="1543827836949">
+  <folder name="assets">
+    <file name="how-to-get-files-off-a-broken-phone.mp4" crc="4074340031" seo="true" mt="1543801536000"/>
+    <file name="remix-os-mac.mp4" crc="132484836" seo="true" mt="1543827197000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3976227930" ref="index"/>
+    <file name="master_a-master.css" crc="24196119" ref="how-to-get-files-off-a-broken-phone:about:video-resources:contact-us:how-to-get-files-off-a-broken-samsung-phone:videos:remix-os-windows:remix-os-mac"/>
+    <file name="master_home-master.css" crc="3850473504" ref="index"/>
+    <file name="how-to-get-files-off-a-broken-phone.css" crc="4088455789" ref="how-to-get-files-off-a-broken-phone"/>
+    <file name="index.css" crc="4056449876" ref="index"/>
+    <file name="about.css" crc="530608299" ref="about"/>
+    <file name="video-resources.css" crc="39270868" ref="video-resources"/>
+    <file name="contact-us.css" crc="3892701596" ref="contact-us"/>
+    <file name="how-to-get-files-off-a-broken-samsung-phone.css" crc="113880360" ref="how-to-get-files-off-a-broken-samsung-phone"/>
+    <file name="videos.css" crc="4249186250" ref="videos"/>
+    <file name="remix-os-windows.css" crc="95605166" ref="remix-os-windows"/>
+    <file name="remix-os-mac.css" crc="4015136132" ref="remix-os-mac"/>
   </folder>
   <folder name="fonts">
     <file name="helveticaneue-bold-02.woff" crc="4196617818"/>
     <file name="helveticaneue-bold-02.eot" crc="4294638822"/>
+    <file name="helveticaneue-bold-02.woff" crc="4196617818"/>
+    <file name="helveticaneue-bold-02.eot" crc="4294638822"/>
+    <file name="helveticaneue-bold-02.woff" crc="4196617818"/>
+    <file name="helveticaneue-bold-02.eot" crc="4294638822"/>
+    <file name="helveticaneue-bold-02.woff" crc="4196617818"/>
+    <file name="helveticaneue-bold-02.eot" crc="4294638822"/>
+    <file name="helveticaneue-bold-02.woff" crc="4196617818"/>
+    <file name="helveticaneue-bold-02.eot" crc="4294638822"/>
+    <file name="helveticaneue-bold-02.woff" crc="4196617818"/>
+    <file name="helveticaneue-bold-02.eot" crc="4294638822"/>
+    <file name="helveticaneue-bold-02.woff" crc="4196617818"/>
+    <file name="helveticaneue-bold-02.eot" crc="4294638822"/>
+    <file name="helveticaneue-bold-02.woff" crc="4196617818"/>
+    <file name="helveticaneue-bold-02.eot" crc="4294638822"/>
+    <file name="helveticaneue-bold-02.woff" crc="4196617818"/>
+    <file name="helveticaneue-bold-02.eot" crc="4294638822"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4286661555" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:video-resources:contact-us:about:videos:how-to-get-files-off-a-broken-samsung-phone:how-to-get-files-off-a-broken-phone:remix-os-mac:remix-os-windows"/>
+    <file name="museutils.js" crc="340535759" ref="index:video-resources:contact-us:about:videos:how-to-get-files-off-a-broken-samsung-phone:how-to-get-files-off-a-broken-phone:remix-os-mac:remix-os-windows"/>
+    <file name="whatinput.js" crc="86476730" ref="index:video-resources:contact-us:about:videos:how-to-get-files-off-a-broken-samsung-phone:how-to-get-files-off-a-broken-phone:remix-os-mac:remix-os-windows"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:video-resources:contact-us:about:videos:how-to-get-files-off-a-broken-samsung-phone:how-to-get-files-off-a-broken-phone:remix-os-mac:remix-os-windows"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:video-resources:contact-us:about:videos:how-to-get-files-off-a-broken-samsung-phone:how-to-get-files-off-a-broken-phone:remix-os-mac:remix-os-windows"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:video-resources:contact-us:about:videos:how-to-get-files-off-a-broken-samsung-phone:how-to-get-files-off-a-broken-phone:remix-os-mac:remix-os-windows"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:video-resources:videos:about:remix-os-windows"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:video-resources:contact-us:about:videos:how-to-get-files-off-a-broken-samsung-phone:how-to-get-files-off-a-broken-phone:remix-os-mac:remix-os-windows"/>
+    <file name="require.js" crc="7928878" ref="index:video-resources:contact-us:about:videos:how-to-get-files-off-a-broken-samsung-phone:how-to-get-files-off-a-broken-phone:remix-os-mac:remix-os-windows"/>
+    <file name="webpro.js" crc="4059564322" ref="contact-us"/>
+    <file name="form_check.php" crc="4020933626" ref="contact-us"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact-us"/>
+    <file name="form_process.php" crc="37464564" ref="contact-us"/>
+    <file name="form-u1625.php" crc="298963432" ref="contact-us"/>
   </folder>
   <folder name="images">
-    <file name="tsmg.jpg" crc="3798928981" seo="true" ref="index">
+    <file name="monoslice.png" crc="3944974578" seo="true" ref="index:video-resources:contact-us:about:videos:how-to-get-files-off-a-broken-samsung-phone:how-to-get-files-off-a-broken-phone:remix-os-mac:remix-os-windows">
+      <caption webpage="remix-os-windows" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="remix-os-(windows)" alt=""/>
+      <caption webpage="remix-os-mac" alt=""/>
+      <caption webpage="videos" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="how-to-get-files-off-a-broken-phone" alt=""/>
+      <caption webpage="video-resources" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="how-to-get-files-off-a-broken-samsung-phone" alt=""/>
+      <caption webpage="remix-os-(mac)" alt=""/>
     </file>
-    <file name="home-favicon.ico" crc="314967165" ref="index"/>
+    <file name="placeholder replacement.jpg" crc="218652761" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="videos" alt=""/>
+    </file>
+    <file name="weblogo.png" crc="463839608" seo="true" ref="video-resources:contact-us:about:how-to-get-files-off-a-broken-samsung-phone:how-to-get-files-off-a-broken-phone:videos:remix-os-mac:remix-os-windows">
+      <caption webpage="remix-os-windows" alt=""/>
+      <caption webpage="remix-os-windows" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="remix-os-(windows)" alt=""/>
+      <caption webpage="remix-os-mac" alt=""/>
+      <caption webpage="remix-os-mac" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="how-to-get-files-off-a-broken-phone" alt=""/>
+      <caption webpage="video-resources" alt=""/>
+      <caption webpage="video-resources" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="how-to-get-files-off-a-broken-samsung-phone" alt=""/>
+      <caption webpage="remix-os-(mac)" alt=""/>
+    </file>
+    <file name="previewimage.jpg" crc="156282332" ref="videos">
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="video-resources" alt=""/>
+      <caption webpage="video-resources" alt=""/>
+      <caption webpage="video-resources" alt=""/>
+    </file>
+    <file name="top.png" crc="3930777841" seo="true" ref="video-resources:contact-us:about:how-to-get-files-off-a-broken-samsung-phone:how-to-get-files-off-a-broken-phone:videos:remix-os-mac:remix-os-windows">
+      <caption webpage="remix-os-windows" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="remix-os-(windows)" alt=""/>
+      <caption webpage="remix-os-mac" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="how-to-get-files-off-a-broken-phone" alt=""/>
+      <caption webpage="video-resources" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="how-to-get-files-off-a-broken-samsung-phone" alt=""/>
+      <caption webpage="remix-os-(mac)" alt=""/>
+    </file>
+    <file name="htgfoabp50.jpg" crc="3836088938" ref="how-to-get-files-off-a-broken-phone:how-to-get-files-off-a-broken-samsung-phone:remix-os-mac">
+      <caption webpage="how-to-get-files-off-a-broken-phone" alt=""/>
+      <caption webpage="remix-os-windows" alt=""/>
+      <caption webpage="how-to-get-files-off-a-broken-samsung-phone" alt=""/>
+      <caption webpage="remix-os-mac" alt=""/>
+    </file>
+    <file name="htgfoabp.jpg" crc="4054916929" ref="video-resources">
+      <caption webpage="video-resources" alt=""/>
+    </file>
+    <file name="screen shot 2018-12-03 at 12611 pm.jpg" crc="483967498" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="previewimage-u1163-fr.jpg" crc="3817231808" ref="video-resources"/>
+    <file name="maxresdefault-2.jpg" crc="3780848706" ref="remix-os-windows">
+      <caption webpage="remix-os-mac" alt=""/>
+      <caption webpage="remix-os-windows" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="534934169" seo="true" mt="1542860467324" redirect="true"/>
+  <file name="index.html" crc="4197187109" seo="true" mt="1543827062026" redirect="true"/>
+  <file name="video-resources.html" crc="501352256" seo="true" mt="1543827764028" redirect="true"/>
+  <file name="contact-us.html" crc="183044451" seo="true" mt="1543827681637" redirect="true"/>
+  <file name="about.html" crc="44842105" seo="true" mt="1543827681637" redirect="true"/>
+  <file name="videos.html" crc="501439330" seo="true" mt="1543827681637" redirect="true"/>
+  <file name="how-to-get-files-off-a-broken-samsung-phone.html" crc="3860263359" seo="true" mt="1543827681637" redirect="true"/>
+  <file name="how-to-get-files-off-a-broken-phone.html" crc="65870439" seo="true" mt="1543827681637" redirect="true"/>
+  <file name="remix-os-mac.html" crc="3838179128" seo="true" mt="1543827681637" redirect="true"/>
+  <file name="remix-os-windows.html" crc="325929330" seo="true" mt="1543827681637" redirect="true"/>
 </manifest>
