@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techslice.github.io" resolutions="1x" timestamp="1546146280219">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techslice.github.io" resolutions="1x" timestamp="1546146365351">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_home-master.css" crc="209689660" ref="index"/>
     <file name="master_a-master.css" crc="3876572094" ref="how-to-get-files-off-a-broken-phone:video-resources:how-to-get-files-off-a-broken-samsung-phone:contact-us:what-s-new-in-wear-os-2.0:remix-os-mac:videos:about"/>
-    <file name="index.css" crc="4253247417" ref="index"/>
+    <file name="index.css" crc="4003467801" ref="index"/>
     <file name="how-to-get-files-off-a-broken-phone.css" crc="139972277" ref="how-to-get-files-off-a-broken-phone"/>
     <file name="video-resources.css" crc="4227361670" ref="video-resources"/>
     <file name="how-to-get-files-off-a-broken-samsung-phone.css" crc="113880360" ref="how-to-get-files-off-a-broken-samsung-phone"/>
@@ -32,13 +32,13 @@
     <file name="monoslice.png" crc="3944974578" seo="true" ref="index:video-resources:contact-us:about:videos:how-to-get-files-off-a-broken-phone:how-to-get-files-off-a-broken-samsung-phone:remix-os-mac:what-s-new-in-wear-os-2.0">
       <caption webpage="how-to-get-files-off-a-broken-samsung-phone" alt=""/>
       <caption webpage="how-to-get-files-off-a-broken-phone" alt=""/>
-      <caption webpage="remix-os-mac" alt=""/>
+      <caption webpage="what-s-new-in-wear-os-2.0" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="contact-us" alt=""/>
+      <caption webpage="remix-os-mac" alt=""/>
       <caption webpage="video-resources" alt=""/>
-      <caption webpage="what-s-new-in-wear-os-2.0" alt=""/>
       <caption webpage="videos" alt=""/>
     </file>
     <file name="weblogo.png" crc="463839608" seo="true" ref="video-resources:contact-us:about:videos:how-to-get-files-off-a-broken-phone:how-to-get-files-off-a-broken-samsung-phone:remix-os-mac:what-s-new-in-wear-os-2.0">
@@ -88,7 +88,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="269425277" seo="true" mt="1546146268690" redirect="true"/>
+  <file name="index.html" crc="4107654018" seo="true" mt="1546146359216" redirect="true"/>
   <file name="video-resources.html" crc="167893249" seo="true" mt="1546040782449" redirect="true"/>
   <file name="contact-us.html" crc="4003418018" seo="true" mt="1546145579875" redirect="true"/>
   <file name="about.html" crc="395473544" seo="true" mt="1546040782449" redirect="true"/>
