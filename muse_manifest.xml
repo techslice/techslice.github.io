@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techslice.github.io" resolutions="1x" timestamp="1546145616986">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techslice.github.io" resolutions="1x" timestamp="1546146280219">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_home-master.css" crc="3916235195" ref="index"/>
+    <file name="master_home-master.css" crc="209689660" ref="index"/>
     <file name="master_a-master.css" crc="3876572094" ref="how-to-get-files-off-a-broken-phone:video-resources:how-to-get-files-off-a-broken-samsung-phone:contact-us:what-s-new-in-wear-os-2.0:remix-os-mac:videos:about"/>
-    <file name="index.css" crc="3866365728" ref="index"/>
+    <file name="index.css" crc="4253247417" ref="index"/>
     <file name="how-to-get-files-off-a-broken-phone.css" crc="139972277" ref="how-to-get-files-off-a-broken-phone"/>
     <file name="video-resources.css" crc="4227361670" ref="video-resources"/>
     <file name="how-to-get-files-off-a-broken-samsung-phone.css" crc="113880360" ref="how-to-get-files-off-a-broken-samsung-phone"/>
@@ -88,7 +88,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3954838615" seo="true" mt="1546143650531" redirect="true"/>
+  <file name="index.html" crc="269425277" seo="true" mt="1546146268690" redirect="true"/>
   <file name="video-resources.html" crc="167893249" seo="true" mt="1546040782449" redirect="true"/>
   <file name="contact-us.html" crc="4003418018" seo="true" mt="1546145579875" redirect="true"/>
   <file name="about.html" crc="395473544" seo="true" mt="1546040782449" redirect="true"/>
